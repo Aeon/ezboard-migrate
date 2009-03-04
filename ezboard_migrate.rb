@@ -7,7 +7,7 @@
 # aeontech.tumblr.com
 
 # forum config:
-forum_address = 'http://p098.ezboard.com/bbaymountaininstructors'
+forum_address = 'FORUM_URL'
 admin_user = 'USERNAME'
 admin_password = 'PASSWORD'
 # end config
