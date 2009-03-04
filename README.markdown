@@ -36,7 +36,7 @@ The database models that the script tries to use have the following fields:
         Forum: name
         User: login, password, created_at
         Topic: title, created_at (related to user and forum)
-        Post: body, craeted_at (related to forum, topic and user)
+        Post: body, created_at (related to forum, topic and user)
 
 Version History
 ---------------
